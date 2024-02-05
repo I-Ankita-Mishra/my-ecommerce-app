@@ -59,12 +59,14 @@ npm start
 
 ## Screenshots 
 ### Login Page
-![App Screenshot](![Screenshot (30)](https://github.com/I-Ankita-Mishra/my-ecommerce-app/assets/84787749/f0065422-5966-4f68-ae50-d9593c777f22)
+![Screenshot (30)](https://github.com/I-Ankita-Mishra/my-ecommerce-app/assets/84787749/f0065422-5966-4f68-ae50-d9593c777f22)
 
 ### Product Page 
 ![Screenshot (31)](https://github.com/I-Ankita-Mishra/my-ecommerce-app/assets/84787749/033eff61-14d0-435e-8987-40d4fe492db4)
 
-###Cart Page 
+### Cart Page 
+![Screenshot (32)](https://github.com/I-Ankita-Mishra/my-ecommerce-app/assets/84787749/36c07677-16de-40bf-83a1-e458f1680b30)
+
 
 
 
